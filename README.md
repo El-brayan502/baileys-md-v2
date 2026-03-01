@@ -25,5 +25,5 @@ npm install socketon
 ## package.json
 
 ```bash
-baileys-leet
+npm:baileys-leet
 ```
