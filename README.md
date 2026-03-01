@@ -8,8 +8,8 @@
 
 > [!TIP]
 > **¿Encontraste un error o tienes una idea para mejorar el proyecto?**
-> Reporta un problema o sugiere una mejora en la sección de [Issues](https://github.com/GataNina-Li/Baileys/issues).
-> Envía tus cambios o colaboraciones mediante un [Pull Request](https://github.com/GataNina-Li/Baileys/pulls).
+> Reporta un problema o sugiere una mejora en la sección de [Issues](https://github.com/El-brayan502/baileys-md-v2/issues).
+> Envía tus cambios o colaboraciones mediante un [Pull Request](https://github.com/El-brayan502/baileys-md-v2/pulls).
 
 > [!IMPORTANT]
 > _Este repositorio no es oficial. Corresponde a una adaptación personalizada del proyecto original disponible en [WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys). Los cambios, versiones y actualizaciones aquí presentes pueden diferir del repositorio oficial y no necesariamente siguen sus lineamientos o convenciones._
