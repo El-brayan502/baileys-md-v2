@@ -15,3 +15,15 @@
 
 > [!IMPORTANT]
 > _Este repositorio no es oficial. Corresponde a una adaptación personalizada del proyecto original disponible en [WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys). Los cambios, versiones y actualizaciones aquí presentes pueden diferir del repositorio oficial y no necesariamente siguen sus lineamientos o convenciones._
+
+## Installation
+
+```bash
+npm install socketon
+```
+
+## package.json
+
+```bash
+npm install socketon
+```
