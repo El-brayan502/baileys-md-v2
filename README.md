@@ -19,7 +19,7 @@
 ## Installation
 
 ```bash
-npm install socketon
+npm install baileys-md-v2
 ```
 
 ## package.json
