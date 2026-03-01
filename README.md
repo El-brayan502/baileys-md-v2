@@ -4,7 +4,7 @@
 > [!NOTE]
 > Apoya este proyecto dejando una ⭐.
 > Mantente al tanto de las novedades y actualizaciones:
-> [Canal colaborativo](https://whatsapp.com/channel/0029Vb6BDQc0lwgsDN1GJ31i)
+> [Canal ](https://whatsapp.com/channel/0029Vb6BDQc0lwgsDN1GJ31i)
 
 > [!TIP]
 > **¿Encontraste un error o tienes una idea para mejorar el proyecto?**
