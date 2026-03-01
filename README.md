@@ -4,9 +4,7 @@
 > [!NOTE]
 > Apoya este proyecto dejando una ⭐.
 > Mantente al tanto de las novedades y actualizaciones:
-> [Canal Principal](https://t.me/globalgb)
-> [Canal Personal](https://whatsapp.com/channel/0029VahtqH6BlHpjV0Va2a3R)
-> [Canal colaborativo](https://whatsapp.com/channel/0029VaKn22pDJ6GwY61Ftn15)
+> [Canal colaborativo](https://whatsapp.com/channel/0029Vb6BDQc0lwgsDN1GJ31i)
 
 > [!TIP]
 > **¿Encontraste un error o tienes una idea para mejorar el proyecto?**
