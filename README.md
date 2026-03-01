@@ -25,3 +25,12 @@ npm install baileys-md-v2
 ```bash
 npm:baileys-leet
 ```
+
+---
+
+<div align="center">
+  <h1 align="center">PROPIETARIO Y EDITOR DEL BOT</h1>
+
+<a href="https://github.com/El-brayan502"><img src="https://github.com/El-brayan502.png" width="300" height="300" alt="santiyt65"/></a>
+
+`Baileys md`
