@@ -1,1 +1,1 @@
-<h1 align='center'><img alt="Baileys logo" src="https://raw.githubusercontent.com/El-brayan502/img/upload/uploads/d0381d-1772399345217.jpg" height="100"/></h1>
+<h1 align='center'><img alt="Baileys logo" src="https://raw.githubusercontent.com/El-brayan502/img/upload/uploads/d0381d-1772399345217.jpg" height="300"/></h1>
